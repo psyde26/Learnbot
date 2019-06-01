@@ -1,4 +1,5 @@
 env
 .vscode
 bot.log
-chech.py
+city.csv
+function.py
